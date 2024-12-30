@@ -1,0 +1,9 @@
+# ninja log v6
+1	59	7550397620971876	CMakeFiles/homeWork3.dir/main.c.obj	759d055bd92f3081
+5	70	7550397621007804	CMakeFiles/homeWork3.dir/GameBoard.c.obj	4b7d9fa07042602
+70	161	7550397621654880	homeWork3.exe	51a8b8fdde65edea
+4	160	7550406894438046	CMakeFiles/homeWork3.dir/GameBoard.c.obj	4b7d9fa07042602
+161	345	7550406896000635	homeWork3.exe	51a8b8fdde65edea
+21	201	7572578198951857	CMakeFiles/homeWork3.dir/main.c.obj	759d055bd92f3081
+25	201	7572578198991942	CMakeFiles/homeWork3.dir/GameBoard.c.obj	4b7d9fa07042602
+201	406	7572578200753180	homeWork3.exe	51a8b8fdde65edea
